@@ -1,4 +1,6 @@
+import com.beust.jcommander.Parameter;
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class SampleTest extends BaseTest {

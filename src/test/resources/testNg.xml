@@ -3,6 +3,7 @@
     <test name="GoogleTests">
         <classes>
             <class name="SampleTest"/>
+            <parameter name="browser" value="chrome"></parameter>
         </classes>
     </test>
 </suite>
